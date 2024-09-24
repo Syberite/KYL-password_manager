@@ -59,6 +59,7 @@ Setting the Master Password
 On the first run, you'll be prompted to set a master password.
 
 **Commands**
+![f683b1ab-7847-49a7-82cc-d9291e915c82](https://github.com/user-attachments/assets/420a78e2-e1ac-48bb-9ba1-4df08f1da864)
 
 Examples
 
@@ -89,6 +90,7 @@ Integrating a GUI interface for ease of use.
 
 
 *Contributing*
+
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
