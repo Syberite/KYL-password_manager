@@ -60,8 +60,9 @@ On the first run, you'll be prompted to set a master password.
 
 **Commands**
 ![f683b1ab-7847-49a7-82cc-d9291e915c82](https://github.com/user-attachments/assets/420a78e2-e1ac-48bb-9ba1-4df08f1da864)
+![54b5597a-7e07-4af8-b99b-ccd6574be948](https://github.com/user-attachments/assets/a200f3fe-66bf-4d6f-8e57-f52de86de196)
 
-Examples
+**Examples**
 
 To add a password:
 
