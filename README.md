@@ -38,7 +38,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/KYL-password_manager.git
+git clone https://github.com/Syberite/KYL-password_manager.git
 cd KYL-password_manager
 
 
