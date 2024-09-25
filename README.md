@@ -81,6 +81,8 @@ HIBP Integration: Ensures passwords haven’t been compromised.
 
 Uses ceaser cipher for password encryption.
 
+A seperate section for PIN
+
 **Future Enhancements**
 
 Implementing password encryption for stored passwords.
